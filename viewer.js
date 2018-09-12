@@ -4342,7 +4342,7 @@ var defaultOptions = {
     kind: OptionKind.VIEWER
   },
   defaultUrl: {
-    value: 'compressed.tracemonkey-pldi-09.pdf',
+    value: 'manual-2.0.1.pdf',
     kind: OptionKind.VIEWER
   },
   defaultZoomValue: {
